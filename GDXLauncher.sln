@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDXLauncher", "GDXLauncher\GDXLauncher.csproj", "{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Blood - Release|Any CPU = Blood - Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Redneck - Release|Any CPU = Redneck - Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}.Blood - Release|Any CPU.ActiveCfg = Blood - Release|Any CPU
+		{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}.Blood - Release|Any CPU.Build.0 = Blood - Release|Any CPU
+		{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}.Redneck - Release|Any CPU.ActiveCfg = Redneck - Release|Any CPU
+		{9F4FFD6D-0BA6-46A5-8250-92E3A218E855}.Redneck - Release|Any CPU.Build.0 = Redneck - Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829E5331-09C4-4124-BA8B-77EB958A46DF}
+	EndGlobalSection
+EndGlobal
