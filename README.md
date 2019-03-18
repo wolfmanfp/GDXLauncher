@@ -1,5 +1,7 @@
 # GDXLauncher
 
+**IMPORTANT!** As of 16 March 2019, this launcher is obsolete. The newly announced multiport called BuildGDX is bundled with a portable JRE and a launcher and will replace BloodGDX and RedneckGDX.
+
 This program is a Windows launcher for libGDX-based source ports for Blood and Redneck Rampage called BloodGDX and RedneckGDX by [Alexander 'M210' Makarov](http://m210.duke4.net). It can start the game with a portable Java runtime, so you don't have to install Java if you don't want to.
 
 Duke4.net forum member NightFright has already released a launcher for BloodGDX bundled with jPortable. I developed this idea further by supporting the more recent OpenJDK Runtime for starting the game, and added RedneckGDX support.
